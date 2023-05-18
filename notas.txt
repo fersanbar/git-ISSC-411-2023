@@ -1,1 +1,7 @@
-hola 
+Commands: 
+- Push: git push
+- Fetch
+- Pull: git pull
+
+Ramas:
+Las rmas nos permiten agregar commits de una manera sergura, sin alterar directamente la rama principal (main).
